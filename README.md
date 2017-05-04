@@ -22,6 +22,6 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 In order to run the code in the jupyter notebook you also need the files **housing.csv** and **visuals.py**. You can find these files in the Udacity project repository linked in the beginning of this readme.
 
-Load the file using jupyter notebook using the following command:
+Load the file with jupyter notebook using the following command:
 
 ```jupyter notebook boston_housing.ipynb```
