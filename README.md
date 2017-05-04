@@ -1,5 +1,5 @@
 # Project: Predicting Boston Housing Prices
-## My 1st Project in the Machine Learning Engineer Nanodegree at Udacity
+## My 1st Project in the Machine Learning Engineer Nanodegree at [Udacity](https://www.udacity.com/)
 
 ### Link to the Udacity project repository
 
